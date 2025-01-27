@@ -1,1 +1,1 @@
-rabbit is red
+rabbit is blue
